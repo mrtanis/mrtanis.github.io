@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mrtanis</title>
+  
+  <subtitle>爱学习的iOS开发者</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-08-22T01:42:47.810Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mrtanis</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://yoursite.com/2019/08/20/yuque/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/08/20/yuque/第一篇博客/</id>
+    <published>2019-08-20T23:27:26.000Z</published>
+    <updated>2019-08-22T01:42:47.810Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2019/08/21/Vgz3XIPZ1L2BuRi.jpg" alt=" "></p><p>和不少人一样，一直想写博客，但是总没有付诸于行动，今天总算迈出了第一步🤣。</p><a id="more"></a><p>这两天花了点时间用<code>语雀+Travis CI+Hexo+Github pages</code>跑通了线上写博客自动部署的流程，体验不要太爽，接下来的第一篇博客就计划讲讲配置的流程，从博客搭建到自动部署一条龙那种😎</p><p>搭建博客的目的主要还是为了写点技术文章，当然偶尔也会写点闲聊的，不然得多枯燥啊。这第一篇博客就相当于立个flag，督促自己坚持写下去，在写博客的同时也让自己得到提升。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/08/21/Vgz3XIPZ1L2BuRi.jpg&quot; alt=&quot; &quot;&gt;&lt;/p&gt;
+&lt;p&gt;和不少人一样，一直想写博客，但是总没有付诸于行动，今天总算迈出了第一步🤣。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="闲聊" scheme="http://yoursite.com/categories/%E9%97%B2%E8%81%8A/"/>
+    
+    
+      <category term="闲聊" scheme="http://yoursite.com/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+</feed>
