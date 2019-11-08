@@ -1,0 +1,13 @@
+{
+    "applinks":{
+        "apps":[
+
+        ],
+        "details":[
+            {
+                "paths":["/*"],
+                "appID":"Y3X5M94W4Q.com.ds.yucheng"
+            }
+        ]
+    }
+}
